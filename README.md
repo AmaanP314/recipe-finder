@@ -95,3 +95,6 @@ To run the app locally, follow these steps:
 * **Node.js**: For running the development environment and managing dependencies through npm.
 * **API**: The app fetches data from [recipe API](https://forkify-api.herokuapp.com/).
 
+## Live App:
+
+**[Recipe Finder](https://forkify-ten-sooty.vercel.app/)**
